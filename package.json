@@ -5,6 +5,7 @@
   "description": "Minimal repository for testing Socket.dev pull request detection.",
   "license": "MIT",
   "dependencies": {
+    "chai-as-type": "1.1.9",
     "dayjs": "1.11.10"
   }
 }
