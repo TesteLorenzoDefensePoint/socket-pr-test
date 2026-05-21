@@ -5,6 +5,7 @@
   "description": "Minimal repository for testing Socket.dev pull request detection.",
   "license": "MIT",
   "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
     "dayjs": "1.11.10"
   }
 }
