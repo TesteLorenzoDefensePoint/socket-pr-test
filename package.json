@@ -5,6 +5,7 @@
   "description": "Minimal repository for testing Socket.dev pull request detection.",
   "license": "MIT",
   "dependencies": {
+    "core-js": "3.49.0",
     "dayjs": "1.11.10"
   }
 }
